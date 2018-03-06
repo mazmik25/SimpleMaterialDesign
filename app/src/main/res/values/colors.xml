@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F57C00</color>
+    <color name="colorPrimaryDark">#E65100</color>
+
+    <!-- Color accent is used for:
+            - text fields and cursor
+            - text selection
+            - progress bar
+            - selection control, buttons, and sliders
+            - links
+    -->
+    <color name="colorAccent">#4CAF50</color>
+    <color name="overFlowMenuBg">#00897B</color>
+    <color name="actionModeBg">#A5D6A7</color>
+</resources>

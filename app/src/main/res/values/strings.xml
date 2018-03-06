@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="camera">Camera</string>
+    <string name="web_search">Web Search</string>
+    <string name="help">Help</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac lectus luctus, accumsan eros vel, faucibus metus. Etiam vitae volutpat felis. In blandit lorem eu rhoncus tempus. Ut at magna fermentum, scelerisque odio eget, pretium nulla. Aenean dignissim est at nisl laoreet placerat eu venenatis tortor. Etiam efficitur erat vel sagittis egestas. Phasellus tristique eleifend ante, at pulvinar risus elementum sollicitudin. Sed sodales dignissim arcu vel ultricies. Nullam ac eros ornare, porta massa sit amet, ultricies nisi. Praesent euismod nulla quis nulla lobortis, sit amet tempor tortor vehicula. Vivamus pellentesque sit amet orci eu accumsan. Proin mollis est id quam consequat, non iaculis nunc blandit. Mauris tincidunt quis purus sit amet tincidunt.</string>
+    <string name="archive">Archive</string>
+    <string name="backup">Back Up</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="location">Location</string>
+    <string name="mail">Mail</string>
+</resources>

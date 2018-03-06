@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/save"
+        android:checkable="true"
+        android:icon="@drawable/ic_save"
+        android:title="@string/save" />
+
+    <item
+        android:id="@+id/settings"
+        android:checkable="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/archive"
+        android:checkable="true"
+        android:icon="@drawable/ic_archive"
+        android:title="@string/archive" />
+
+    <item
+        android:id="@+id/camera"
+        android:checkable="true"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/camera" />
+    <item
+        android:id="@+id/location"
+        android:checkable="true"
+        android:icon="@drawable/ic_location"
+        android:title="@string/location" />
+
+    <item
+        android:id="@+id/mail"
+        android:checkable="true"
+        android:icon="@drawable/ic_mail"
+        android:title="@string/mail" />
+
+</menu>

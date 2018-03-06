@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="camera">Camera</string>
+    <string name="web_search">Web Search</string>
+    <string name="help">Help</string>
+</resources>
